@@ -1,4 +1,3 @@
-# vm_checker
 # 🖥️ VM Checker Bot
 
 A Telegram bot that monitors your Linux server stats in real time.
